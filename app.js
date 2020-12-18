@@ -104,3 +104,5 @@ sortByPrice.addEventListener('click', ()=> {
     updateLocalStorge();
     init()
 })
+
+//Validate the input number
